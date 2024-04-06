@@ -1,5 +1,8 @@
 # vault-docker
-Install vault in docker with saving settings in dir
+Install vault in docker with saving settings in directory\
+To create image
+
+    docker build -t minvault . 
 
 after start containers , execute the following commands inside the container
 
